@@ -33,7 +33,7 @@ build/
 .vscode/
 
 # Env
-/src/main/resources/application.properties
+src/main/resources/application.properties
 
 #maven
 .mvn
